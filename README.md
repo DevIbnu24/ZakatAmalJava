@@ -7,4 +7,4 @@ Nama : Muhammad Ibnu Pradipta
 NIM : 23533832
 Kelas : 3A TI
 Asal Kampus : Universitas Muhammadiyah Ponorogo
-==========================================================================
+
