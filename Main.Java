@@ -1,8 +1,8 @@
-package hello;
+package Main.Java;
 
 import java.util.Scanner;
 
-public class Hello {
+public class Main.Java {
 
     public static void main(String[] args) {
       
@@ -18,8 +18,6 @@ public class Hello {
             kelas = keyboard.nextLine();
             System.out.print("NIM: ");
             nim = keyboard.nextInt();
-            System.out.print("Nilai: ");
-            nilai = keyboard.nextInt();
 
             System.out.println("\n-Menghitung Zakat Maal-");
             System.out.print("Masukkan jumlah harta (dalam bentuk desimal): ");
@@ -29,7 +27,6 @@ public class Hello {
             System.out.println("Nama: " + nama);
             System.out.println("NIM: " + nim);
             System.out.println("Kelas: " + kelas);
-            System.out.println("Nilai: " + nilai);
             System.out.printf("Jumlah zakat yang harus dibayarkan: %.2f\n", zakat);
         }
     }
